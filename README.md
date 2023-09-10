@@ -1,4 +1,4 @@
-# STAT 3355.001 Final Project: Alchohol, Wealth, and Happiness
+# STAT 3355.001 Final Project: COVID-19 and the States
 
 By Ann Biju, Jake Lee, and Whitney Humecky
 
