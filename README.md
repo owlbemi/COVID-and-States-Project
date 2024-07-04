@@ -31,5 +31,18 @@ For the analysis the followings were used:
 - Scatter Plots
 - Regional Analysis
 
+## Findings
+### Infants vs Non-Infants
+Non-infants had a higher number of COVID-19 cases, likely due to factors like school reopening. However, infants had a higher mortality rate, possibly due to a less developed immune system.
+
+### Mortality rate and Vaccination
+Older age groups with higher mortality rates also had a significantly higher vaccination rate by the end of 2021, suggesting people were more likely to get vaccinated based on risk.
+
+### Mortality rate and Region
+States in the Bible Belt and Midwest had higher mortality rates, potentially due to relaxed COVID-19 policies like mask mandates. Urban population density didn't directly correlate with higher mortality.
+
+### Mortality rate and State Party Affiliation
+States that voted Republican in the 2020 election generally had higher mortality rates, possibly linked to less strict social distancing measures. However, population density in the South may also be a contributing factor.
+
 
 
