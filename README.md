@@ -6,6 +6,8 @@ By Ann Biju, Jake Lee, and Whitney Humecky
 
 STAT 3355.001
 
+Please refer to <a href="https://github.com/owlbemi/COVID-and-States-Project/blob/main/STAT-3355-Final-Project.md">here</a> for full analysis and figures & graphs.
+
 ## Dataset Information
 **Johns Hopkins University (JHU) Coronavirus Research Centre**
 
